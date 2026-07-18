@@ -1,2 +1,5 @@
 # CompTIA-A-Labs
-Hands-on labs completed while studying for the CompTIA A+ certification.
+Welcome to my CompTIA A+ lab portfolio.
+
+## Topics
+
