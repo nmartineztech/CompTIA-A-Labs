@@ -16,10 +16,4 @@ This repository contains my hands-on labs and notes while studying for the CompT
 - PowerShell
 - Troubleshooting
 
-## Lab Progress
 
-Completed Labs:
-
--Lab 01 - Help Desk Ticket Management
-
-I will continue updating this repository as I complete more CompTIA A+ labs.
