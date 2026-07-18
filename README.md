@@ -1,16 +1,25 @@
-# CompTIA-A-Labs
-Welcome to my CompTIA A+ lab portfolio.
+# CompTIA A+ Labs
 
-## Topics
--IT Support & Help Desk
+This repository contains my hands-on labs and notes while studying for the CompTIA A+ certification.
+
+## Topics Covered
+
+- IT Support & Help Desk
 - Windows Administration
 - Device Manager
 - Disk Management
 - Local Users and Groups
-- Registry Editor
+- Certificate Manager
 - Group Policy
+- Registry Editor
 - Command Line
 - PowerShell
 - Troubleshooting
 
-I will update this repository as I complete more labs.
+## Lab Progress
+
+Completed Labs:
+
+-Lab 01 - Help Desk Ticket Management
+
+I will continue updating this repository as I complete more CompTIA A+ labs.
