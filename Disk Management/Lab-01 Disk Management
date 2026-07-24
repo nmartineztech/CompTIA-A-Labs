@@ -1,0 +1,71 @@
+# Lab 04 – Disk Management
+
+## Objective
+
+Practice managing Windows storage by cleaning up unnecessary thumbnail files and configuring the C: drive for scheduled monthly optimization.
+
+## Skills Practiced
+
+* Disk Management
+* Windows storage maintenance
+* Disk cleanup
+* Thumbnail cache management
+* Disk optimization
+* Drive defragmentation
+* Scheduled maintenance
+* Windows system utilities
+
+## Environment
+
+* Windows operating system
+* C: system volume
+* Disk Cleanup utility
+* Optimize Drives utility
+
+## Scenario
+
+In this lab, I performed routine disk maintenance on the C: volume. The tasks required cleaning up thumbnail files while keeping temporary files intact and configuring the C: drive to be optimized on a monthly schedule.
+
+## Tasks Performed
+
+### 1. Cleaned Up Thumbnail Files
+
+* Accessed the Windows disk cleanup tools.
+* Selected the **C:** volume.
+* Located the available cleanup options.
+* Selected **Thumbnails** for cleanup.
+* Ensured that **Temporary files** were not selected.
+* Completed the cleanup process.
+
+### 2. Configured Monthly Drive Optimization
+
+* Opened the Windows **Optimize Drives** utility.
+* Located the **C:** drive.
+* Configured the drive optimization schedule.
+* Set the optimization frequency to **Monthly**.
+* Verified that the C: drive was configured for scheduled monthly optimization.
+
+## Best Practices Followed
+
+* Selected only the required cleanup option.
+* Avoided deleting temporary files as specified by the lab requirements.
+* Used built-in Windows system maintenance utilities.
+* Configured automated drive optimization for regular system maintenance.
+* Verified the drive optimization schedule after configuration.
+
+## What I Learned
+
+This lab provided hands-on experience performing routine Windows storage maintenance. I learned how to selectively clean up thumbnail files without removing temporary files and how to configure scheduled drive optimization. Regular disk maintenance can help maintain system performance and ensure that storage resources are managed effectively.
+
+## CompTIA A+ Objectives
+
+* **3.4** – Given a scenario, troubleshoot common storage-related issues.
+* **4.2** – Explain common OS installation and configuration considerations.
+* **4.4** – Explain common OS maintenance procedures.
+
+## Outcome
+
+* Successfully cleaned up thumbnail files on the C: volume.
+* Confirmed that temporary files were not selected for cleanup.
+* Successfully configured the C: drive for monthly optimization.
+* Demonstrated hands-on experience with Windows disk maintenance and storage management.
