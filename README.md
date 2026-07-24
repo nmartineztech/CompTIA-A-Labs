@@ -16,5 +16,6 @@ This repository contains my hands-on labs and notes while studying for the CompT
 - PowerShell
 - Troubleshooting
 - Cloud Computing/Cloud Storage
+- Networking
 
 
