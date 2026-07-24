@@ -1,0 +1,87 @@
+# Lab 06 – Automated File Copy Using Robocopy
+
+## Objective
+
+In this lab, I practiced using Robocopy through PowerShell to copy folders and files from one drive to another. I also learned how to exclude specific files and folders from being copied.
+
+## Skills Practiced
+* PowerShell
+* Robocopy
+* Windows command-line tools
+* File and folder management
+* Excluding files and directories
+* Copying and transferring data
+* Basic backup and storage tasks
+
+## Environment
+* Windows operating system
+* PowerShell
+* C: drive as the source
+* U: drive as the destination
+* Robocopy
+
+---
+
+## Scenario
+
+For this lab, I needed to copy two business folders from the C: drive to the U: drive. Some files and folders contained data that should not be copied, so I had to use Robocopy options to exclude them.
+
+The goal was to complete the file transfer using PowerShell and Robocopy instead of manually copying the files. This also helped me practice using commands that could be reused or added to a script for future automation.
+
+---
+
+## Tasks Performed
+
+### 1. Copied the HR Folder
+
+* Opened PowerShell.
+* Used Robocopy to copy the HR folder from the C: drive to the U: drive.
+* Excluded the required HR files and folders.
+* Checked the destination to make sure the HR folder was copied correctly.
+
+
+### 2. Copied the Sales Folder
+
+* Used Robocopy again to copy the Sales folder to the U: drive.
+* Applied the required file exclusions.
+* Checked that the Sales folder was copied successfully.
+* Confirmed that the excluded files were not copied to the destination.
+
+### 3. Verified the Results
+
+* Opened File Explorer.
+* Opened the U: drive.
+* Checked that both the HR and Sales folders were present.
+* Verified that the files and folders that were supposed to be excluded were not present.
+* Confirmed that the file copy operation was successful.
+
+## Best Practices Followed
+* Used PowerShell as required for the task.
+* Used Robocopy to make the file transfer repeatable.
+* Used exclusion options to prevent specific files and folders from being copied.
+* Verified the results after completing the file transfer.
+* Used a command-line approach that could be reused in future scripts or automated tasks.
+
+## What I Learned
+
+This lab gave me more hands-on experience working with PowerShell and Robocopy. I learned how to copy entire folders while leaving out specific files and directories.
+I also learned that command-line tools like Robocopy can be useful when an IT technician needs to perform the same type of file transfer more than once. Instead of manually copying files each time, the command can be reused or eventually added to a script to automate the process.
+
+
+## Difficulty
+
+The most challenging part of this lab was understanding how to use Robocopy's exclusion options correctly. I had to pay attention to which files and folders needed to be left out of the copy operation.
+I also needed to make sure I was using the correct source and destination paths and running the commands from PowerShell. After completing the copy, I verified the results in File Explorer to make sure everything was transferred correctly.
+
+## CompTIA A+ Objectives
+
+* **4.3** – Given a scenario, use appropriate Microsoft operating system tools.
+* **4.4** – Given a scenario, use appropriate Windows administrative tools.
+
+## Outcome
+* Successfully copied the HR folder using Robocopy.
+* Successfully copied the Sales folder using Robocopy.
+* Excluded the required files and folders from the copy operations.
+* Used PowerShell to run the Robocopy commands.
+* Verified the copied folders and files using File Explorer.
+* Gained practical experience with Windows file management, PowerShell, and command-line administration.
