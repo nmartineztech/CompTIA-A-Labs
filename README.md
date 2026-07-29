@@ -17,5 +17,5 @@ This repository contains my hands-on labs and notes while studying for the CompT
 - Troubleshooting
 - Cloud Computing/Cloud Storage
 - Networking
--Active Directory
+- Active Directory
 
